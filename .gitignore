@@ -1,2 +1,3 @@
 dist/
 .venv
+gendiff/scripts/__pycache__/gendiff.cpython-310.pyc
